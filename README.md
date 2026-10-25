@@ -2,8 +2,8 @@
 
 [![Latest Release](https://badgen.net/github/release/chililikobo/PinSharpICO)](https://github.com/chililikobo/PinSharpICO/releases/latest)
 [![Downloads](https://badgen.net/github/assets-dl/chililikobo/PinSharpICO)](https://github.com/chililikobo/PinSharpICO/releases/latest)
-[![License](https://badgen.net/badge/license/Free%20%2F%20Commercial/purple)](#editions--licensing)
-[![Platform](https://badgen.net/badge/platform/Windows%2011%20%2F%20Server%202025/black)](https://chililikobo.github.io/en/PinSharpICO.html)
+[![License](https://badgen.net/badge/license/Free/purple)](#editions--licensing)
+[![Platform](https://badgen.net/badge/platform/Windows%2011/black)](https://chililikobo.github.io/en/PinSharpICO.html)
 
 [English](#english) | [日本語](#日本語)
 
