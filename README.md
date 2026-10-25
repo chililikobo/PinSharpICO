@@ -43,16 +43,7 @@ PinSharp ICO is a high-definition Windows icon (`.ico`) generator designed to pr
 * **Warranty**: Provided "As-Is". The author assumes no responsibility whatsoever for any damages resulting from the use of this software.
 
 ### Third-Party Licenses (Credits)
-
-This software uses the following open-source libraries:
-
-* Avalonia UI Framework (MIT License)
-* CommunityToolkit.Mvvm (MIT License)
-* Magick.NET (Apache-2.0 / ImageMagick License)
-* SkiaSharp (MIT License)
-* HarfBuzzSharp (MIT License)
-
-For full license texts and copyright notices, please see [ThirdPartyNotices.md](ThirdPartyNotices.md).
+This application incorporates open-source components. For detailed copyright notices and license agreements, refer to [ThirdPartyNotices.md](ThirdPartyNotices.md).
 
 ### Links & Contact
 
@@ -97,16 +88,7 @@ PinSharp ICO（ピンシャープ・アイコ）は、256×256ピクセルのPNG
 * **免責事項**: 本ソフトウェアは「現状有姿（As-Is）」で提供され、使用により生じた一切の損害について作者は責任を負いません。
 
 ### サードパーティ・ライセンス（クレジット）
-
-本ソフトウェアでは、以下のオープンソース・ライブラリを使用しています。
-
-* Avalonia UI Framework (MIT License)
-* CommunityToolkit.Mvvm (MIT License)
-* Magick.NET (Apache-2.0 / ImageMagick License)
-* SkiaSharp (MIT License)
-* HarfBuzzSharp (MIT License)
-
-各ライブラリの著作権表示およびライセンス条文全文については、[ThirdPartyNotices.md](ThirdPartyNotices.md) をご確認ください。
+本ソフトウェアはオープンソースコンポーネントを使用しています。各コンポーネントの著作権表示およびライセンス条文の詳細は [ThirdPartyNotices.md](ThirdPartyNotices.md) をご参照ください。
 
 ### リンク・連絡先
 
