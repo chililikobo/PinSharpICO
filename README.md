@@ -45,7 +45,7 @@ Simply drag and drop an image into the window, and your icon is ready in an inst
   * **Circle**: Round circular icon ideal for avatars and badges.
   *(Non-square images are automatically centered and cleanly clipped).*
 * **Flexible Output Destinations [Pro]**: Save alongside the original image, automatically create an `icons/` subfolder, or choose any custom folder. Existing files are safely numbered `(1), (2)...` to avoid accidental overwrites.
-* **Command Line Interface (CLI) Automation [Pro]**: Run batch conversions directly from Command Prompt, PowerShell, or CI/CD pipelines without opening the GUI.
+* **Command Line Interface (CLI) Automation [Pro]**: Run batch conversions directly from Command Prompt, PowerShell, or local build scripts without opening the GUI. *(Note: Cloud-hosted ephemeral CI/CD environments such as GitHub Actions runners are not supported due to machine-bound license activation.)*
 * **Multi-Language GUI & Persistent Settings**: Press `[F2]` or click the language badge to toggle between English and Japanese. All options are automatically remembered for future launches.
 * **Native AOT Compiled**: Built with .NET 10 (Native AOT) as a standalone portable application. No .NET runtime installation required.
 
@@ -157,7 +157,7 @@ PinSharp ICO（ピンシャープ・アイコ）は、画像からWindows用の�
   * **円形（Circle）**: アバターやバッジに最適なまあるい丸型アイコン。
   *(正方形でない画像も、自動で中央に合わせて綺麗に切り抜きます)*
 * **便利な保存先設定【Pro限定】**: 「元画像と同じ場所」「iconsフォルダを自動作成して保存」「好きなフォルダを指定して保存」から選べます。同名ファイルがある場合は自動で `(1), (2)...` と連番が付くため安全です。
-* **コマンドライン（CLI）自動化【Pro限定】**: プログラムやビルドスクリプトから直接アイコン作成を実行できます。
+* **コマンドライン（CLI）自動化【Pro限定】**: コマンドプロンプト、PowerShell、ローカルのビルドスクリプト等から直接アイコン作成を実行できます（※PC固有のライセンス認証を行っているため、使い捨てのクラウドCI/CD環境［GitHub-hostedランナー等］には対応しておりません）。
 * **日本語・英語の切り替え ＆ 設定の自動保存**: 右上の言語ボタン、またはキーボードの `[F2]` キーでいつでも日本語と英語を切り替えられます。選んだサイズや設定は次回起動時にも自動で引き継がれます。
 * **Native AOT コンパイル**: .NET 10 (Native AOT) により単体で軽快に動作し、.NETランタイムなどの追加インストールは不要です。
 
